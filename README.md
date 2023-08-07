@@ -6,7 +6,7 @@
 #
 # About Website :
 -----------------------
-- Languages i Used on the Site HTML, CSS, Bootstrap
+- Languages i Used in This Site HTML, CSS, Bootstrap
 #
 # Website Link :
 ------------------------
